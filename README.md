@@ -84,16 +84,6 @@ PLACEHOLDER_FOR_ARCHITECTURE_DIAGRAM
 
 ---
 
-## Contributing
-Contributions are welcome! Please create a pull request or open an issue to discuss potential improvements.
-
----
-
-## License
-PLACEHOLDER_FOR_LICENSE_DETAILS
-
----
-
 ## References
 - NYC Taxi Data: PLACEHOLDER_FOR_LINK_TO_DATA_SOURCE
 - Google Cloud Storage: PLACEHOLDER_FOR_BUCKET_LINK
