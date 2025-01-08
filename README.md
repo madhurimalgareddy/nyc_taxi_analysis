@@ -75,15 +75,6 @@ This project involves processing and analyzing NYC Taxi data to gain insights in
 
 ---
 
-## Getting Started
-1. Download or clone this repository.
-2. Install necessary dependencies (PLACEHOLDER_FOR_DEPENDENCY_LINKS).
-3. Configure Mage AI pipelines using the provided YAML files.
-4. Run the pipelines to generate processed tables.
-5. Visualize the data by connecting Tableau to BigQuery.
-
----
-
 ## References
 - NYC Taxi Data: PLACEHOLDER_FOR_LINK_TO_DATA_SOURCE
 - Google Cloud Storage: PLACEHOLDER_FOR_BUCKET_LINK
