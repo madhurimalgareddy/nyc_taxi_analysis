@@ -49,7 +49,7 @@ This project involves processing and analyzing NYC Taxi data to gain insights in
 ---
 
 ## Architecture Diagram
-PLACEHOLDER_FOR_ARCHITECTURE_DIAGRAM
+![Architecture](images/architecture.jpg)
 
 ---
 
