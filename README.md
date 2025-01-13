@@ -11,7 +11,8 @@ This project involves processing and analyzing NYC Taxi data to gain insights in
 5. **Automation:** Incorporate an orchestration layer to streamline data processing workflows.
 
 ---
-
+## Output Dashboard
+![Architecture](images/architecture.jpg)
 ## Approach
 
 ### Step 1: Data Collection
