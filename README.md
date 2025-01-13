@@ -12,7 +12,7 @@ This project involves processing and analyzing NYC Taxi data to gain insights in
 
 ---
 ## Output Dashboard
-![Dashboard](images/NYC Taxi Looker Dashboard.png)
+![Dashboard](images/NYC_Taxi_Looker_Dashboard.png)
 ## Approach
 
 ### Step 1: Data Collection
